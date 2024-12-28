@@ -2,4 +2,7 @@
 venv/
 
 # Ignore the texts.txt folder
-texts.txt/
+texts/
+
+# Ignore the pkl files
+*.pkl
